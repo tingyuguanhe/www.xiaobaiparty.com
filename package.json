@@ -1,0 +1,27 @@
+{
+  "name": "www.xiaobaiparty.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "start": "egg-scripts start --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.becareofzm.cn/xiaobaiparty/www.xiaobaiparty.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^3.3.7",
+    "egg": "^2.6.0",
+    "egg-view-nunjucks": "^2.2.0",
+    "node-sass": "^4.8.3",
+    "raven": "^2.5.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.6.3"
+  }
+}

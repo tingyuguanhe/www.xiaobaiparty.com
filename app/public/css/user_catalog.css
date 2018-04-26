@@ -1,0 +1,15 @@
+.user_catalog .content_front {
+  color: #ffffff;
+}
+.user_catalog .user_nav_link {
+  padding: 0 140px;
+}
+.user_catalog .user_nav_link li {
+  width: 50%;
+}
+.user_catalog .bg {
+  background: url('../img/banner/2.jpg') no-repeat;
+  height: 280px;
+  text-align: center;
+  background-size: cover;
+}

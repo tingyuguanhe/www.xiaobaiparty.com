@@ -1,0 +1,90 @@
+.content_wrap {
+  background: #fff;
+}
+.upload_wrap {
+  margin: 30px 0 0 ;
+  padding: 40px 30px;
+}
+.upload_wrap label {
+  font-weight: normal;
+  height: 34px;
+  line-height: 34px;
+}
+.upload_wrap label span {
+  color: #DD0000;
+}
+.upload_wrap .form-group {
+  margin-bottom: 25px;
+}
+.upload_wrap .col-md-2 {
+  width: 14%;
+  text-align: center;
+}
+.upload_wrap .file_box {
+  width: 100%;
+  height: 142px;
+  border: 1px dashed #ccc;
+  border-radius: 4px;
+}
+.upload_wrap input[type=file] {
+  position: absolute;
+  width: 94%;
+  height: 142px;
+  left: 15px;
+  top: 0;
+  outline-style: none;
+  box-sizing: border-box;
+}
+.upload_wrap ul {
+  padding: 0;
+}
+.upload_wrap ul li {
+  border: 1px solid #CED0DA;
+  border-radius: 4px;
+  background: #f6f6f6;
+  padding: 8px 12px;
+  float: left;
+  margin: 0 10px 0 0;
+}
+.upload_wrap ul li span.close_icon {
+  margin: 0 0 0 10px;
+}
+.upload_wrap ul li img {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+}
+.upload_wrap ul li:last-child span.add_new_folder {
+  display: inline-block;
+  padding: 0 2px;
+}
+.upload_wrap textarea {
+  resize: none;
+  background: #F7F9FA;
+}
+.upload_wrap .upload_file_btn {
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+.upload_wrap .upload_file_btn button {
+  border-radius: 8px;
+  width: 134px;
+  height: 42px;
+  color: #fff;
+  border-color: #1585D8;
+  background: #2DA1F8;
+}
+#selectFolderModal {
+  color: #354052;
+}
+#selectFolderModal .content_title {
+  margin: 0 0 38px 0;
+}
+#selectFolderModal .add_new_folder {
+  height: 36px;
+  line-height: 36px;
+}
+#selectFolderModal .add_new_folder img {
+  width: 12px;
+  height: 12px;
+}

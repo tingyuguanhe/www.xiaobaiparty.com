@@ -1,0 +1,16 @@
+2018-04-24 13:59:25,431 INFO 52881 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-25 00:00:00.000
+2018-04-24 13:59:25,432 INFO 52881 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-25 00:00:01.000
+2018-04-24 18:06:53,462 INFO 55463 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-25 00:00:00.000
+2018-04-24 18:06:53,462 INFO 55463 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-25 00:00:01.000
+2018-04-24 18:36:04,525 INFO 55573 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-25 00:00:00.000
+2018-04-24 18:36:04,526 INFO 55573 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-25 00:00:01.000
+2018-04-25 10:33:54,290 INFO 55573 [1524623634283735587125780667] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js triggered, send random by agent
+2018-04-25 10:33:54,319 INFO 55573 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-04-26 00:00:00.000
+2018-04-25 10:33:54,352 INFO 58999 [1524623634283735587125780667] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js task received by app
+2018-04-25 10:33:54,368 INFO 58999 [1524623634283735587125780667] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2018-04-25 10:33:54,411 INFO 58999 [1524623634283735587125780667] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 40ms
+2018-04-25 10:33:55,265 INFO 58999 [152462363526073558898163027] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js task received by app
+2018-04-25 10:33:55,267 INFO 58999 [152462363526073558898163027] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2018-04-25 10:33:55,281 INFO 58999 [152462363526073558898163027] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 14ms
+2018-04-25 10:33:55,260 INFO 55573 [152462363526073558898163027] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js triggered, send random by agent
+2018-04-25 10:33:55,265 INFO 55573 [Timer] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-04-26 00:00:01.000

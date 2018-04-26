@@ -1,0 +1,394 @@
+.mine_page .user_info {
+  width: 100%;
+  margin: 0 auto;
+  height: 280px;
+  overflow: hidden;
+  position: relative;
+}
+.mine_page .user_info .img_wrap {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  overflow: hidden;
+}
+.mine_page .user_info img {
+  width: 76px;
+  height: 76px;
+}
+.mine_page .operate_icon {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.mine_page .operate_icon img {
+  width: 14px;
+  height: 14px;
+  cursor: pointer;
+}
+.mine_page .operate_icon .edit {
+  margin: 0 24px 0 0;
+}
+.mine_page .bg {
+  background: url('../img/test.jpg') no-repeat;
+  height: 280px;
+  text-align: center;
+}
+.mine_page .bg-blur {
+  float: left;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=10, MakeShadow=false);
+  /* IE6~IE9 */
+}
+.mine_page .content {
+  color: #646a74;
+}
+.mine_page .content_front {
+  position: absolute;
+  left: 0;
+  top: 70px;
+  right: 0;
+  height: 200px;
+  text-align: center;
+}
+.nickname {
+  font-size: 18px;
+  margin: 10px 0 6px 0;
+}
+.position {
+  font-size: 12px;
+}
+.fans {
+  margin: 20px 0 0 0;
+}
+.fans span {
+  cursor: pointer;
+}
+.split_line {
+  margin: 0 18px;
+}
+ul {
+  padding: 0;
+}
+ul.nav_link {
+  width: 100%;
+  background: #fff;
+  border-radius: 4px;
+}
+ul.nav_link li {
+  height: 60px;
+  line-height: 60px;
+  float: left;
+  width: 33%;
+  text-align: center;
+  color: #666;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
+ul.nav_link li span {
+  display: inline-block;
+  height: 60px;
+  padding: 0 12px 0 12px;
+}
+ul.nav_link li.active {
+  color: #0081FF;
+}
+ul.nav_link li.active span {
+  border-bottom: 4px solid #0085ff;
+}
+.folders_list {
+  border-radius: 4px;
+  padding: 80px 30px 40px 30px;
+  width: 100%;
+  background: #fff;
+  position: relative;
+}
+.folders_list > div {
+  position: relative;
+  float: left;
+  height: 210px;
+  padding: 90px 10px 0 10px;
+  width: 32%;
+  text-align: center;
+  background: #F7F9FA;
+  margin: 90px 10px 0 0;
+}
+.folders_list > div > img {
+  position: absolute;
+  width: 110px;
+  left: 50%;
+  top: -35px;
+  margin-left: -55px;
+}
+.folders_list > div .private_label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #F5A623;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 12px;
+  padding: 2px 4px;
+}
+.folders_list > div .private_label img.lock_icon {
+  width: 9px;
+  margin: 0 2px 0 0;
+}
+.folders_list > div .edit_folder {
+  width: 14px;
+  cursor: pointer;
+}
+.folders_list > div .sub {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #a5a5a5;
+  border-radius: 4px;
+  font-size: 12px;
+  padding: 2px 4px;
+  color: #fff;
+}
+.folders_list > div .folder_title {
+  font-size: 18px;
+  height: 50px;
+  width: 100%;
+  font-weight: 700;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+.folders_list > div .folder_msg {
+  height: 50px;
+  line-height: 50px;
+  font-size: 12px;
+  margin: 18px 0 0 0;
+  border-top: 1px solid #E6EAEE;
+}
+.folders_list > div:nth-child(1) {
+  margin-top: 0;
+}
+.folders_list > div:nth-child(2) {
+  margin-top: 0;
+}
+.folders_list > div:nth-child(3) {
+  margin-top: 0;
+}
+.folders_list > div:nth-child(3n+3) {
+  margin-right: 0;
+}
+.list_wrap {
+  border-radius: 4px;
+  padding: 30px;
+  background: #fff;
+}
+.list_wrap .title {
+  font-size: 24px;
+}
+.list_wrap .title span {
+  color: #9ba5b6;
+  font-size: 14px;
+  margin: 0 0 0 10px;
+}
+.list_wrap ul.list {
+  width: 100%;
+  margin: 20px 0 24px 0;
+}
+.list_wrap ul.list li {
+  height: 100px;
+  padding: 20px 0;
+  border-top: 1px solid #E6EAEE;
+}
+.list_wrap ul.list li .info {
+  margin: 10px;
+}
+.list_wrap ul.list img.photo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 0 10px 0 0;
+}
+.list_wrap ul.list .positon {
+  color: #7F8FA4;
+  font-size: 12px;
+}
+.list_wrap ul.list button {
+  border-radius: 4px;
+  font-size: 12px;
+  margin: 15px 0 0 0;
+}
+.list_wrap ul.list button img {
+  width: 10px;
+  height: 10px;
+  margin: -3px 2px 0 0;
+}
+.list_wrap ul.list button.has_follow {
+  background: #F2F4F7;
+  border: 1px solid #CED0DA;
+  color: #354052;
+}
+.purse_list {
+  width: 100%;
+  background: #fff;
+  border-radius: 4px;
+  padding: 30px;
+}
+.purse_list .title_info {
+  background: #F7F9FA;
+  padding: 25px;
+  border-radius: 4px;
+}
+.purse_list .title_info .last_money {
+  color: #a5a5a5;
+}
+.purse_list .title_info .money {
+  font-size: 24px;
+}
+.purse_list .title_info .ope_btns {
+  margin: 7px 0 0 0;
+}
+.purse_list .title_info button {
+  min-width: 85px;
+}
+.purse_list .title_info .btn-default {
+  background: #F2F4F7;
+  border: 1px solid #CED0DA;
+  color: #222;
+  margin: 0 0 0 20px;
+}
+.purse_list .title {
+  font-size: 24px;
+}
+.purse_list .deal_details {
+  background: #F7F9FA;
+  border-radius: 4px;
+  padding: 30px 25px;
+  margin: 30px 0 60px 0;
+}
+.purse_list .line {
+  width: 100%;
+  height: 1px;
+  background: #E6EAEE;
+  margin: 30px 0 20px 0;
+}
+.purse_list table {
+  width: 100%;
+}
+.purse_list table tr {
+  height: 40px;
+}
+.purse_list .deal_null {
+  text-align: center;
+  color: #c4c4c4;
+}
+.purse_list .deal_null img {
+  width: 68px;
+  height: 100px;
+  margin: 10px 0;
+}
+.add_round_icon {
+  position: absolute;
+  right: 10px;
+  bottom: 15px;
+}
+.add_round_icon img {
+  width: 94px;
+}
+#editFolderModal .modal-body img {
+  width: 100px;
+  height: 100px;
+  margin: 0 20px;
+}
+#editFolderModal .modal-body .folder_input {
+  height: 44px;
+  line-height: 44px;
+  width: 260px;
+  caret-color: #FF4D63;
+}
+#editFolderModal .modal-body .private_wrap {
+  margin: 15px 0 0 0;
+}
+#cerateFolderModal .modal-dialog .content_title {
+  margin: 0 0 20px 0;
+}
+#cerateFolderModal .folder_input {
+  height: 44px;
+  line-height: 44px;
+  width: 80%;
+  caret-color: #FF4D63;
+  margin: 0 auto;
+}
+#cerateFolderModal .set_private {
+  color: #354052;
+}
+#cerateFolderModal .private_wrap {
+  margin: 15px 50px 0 0;
+}
+#rechargeModal .modal-body {
+  text-align: center;
+}
+#rechargeModal .recharge_tip {
+  color: #354052;
+  margin: 40px 0 20px;
+}
+#rechargeModal .recharge_select {
+  margin-bottom: 50px;
+}
+#rechargeModal .recharge_select .recharge_options button {
+  width: 260px;
+  height: 44px;
+  line-height: 44px;
+  background: rgba(0, 129, 255, 0.1);
+  border: 1px solid #0081FF;
+  border-radius: 4px;
+  outline: none;
+}
+#rechargeModal .recharge_select .recharge_options li {
+  margin: 20px 0;
+  color: #0081FF;
+  font-size: 20px;
+}
+#rechargeModal .unit {
+  font-size: 14px;
+  margin-right: 2px;
+}
+#rechargeModal .pay {
+  margin-bottom: 30px;
+}
+#rechargeModal .pay .money {
+  font-size: 26px;
+  margin: 22px 0 18px 0;
+}
+#rechargeModal .pay .tip {
+  font-size: 12px;
+  color: #354052 ;
+}
+#rechargeModal .pay img {
+  width: 160px;
+  height: 160px;
+  margin: 10px 0 6px 0;
+}
+#rechargeModal .pay .wx_tip {
+  font-size: 12px;
+  color: #c0c0c0;
+}
+#shareModal .modal-body {
+  text-align: center;
+}
+#shareModal .modal-body .code_img {
+  margin: 20px 0;
+}
+#shareModal .modal-body .code_img img {
+  width: 160px;
+  height: 160px;
+}

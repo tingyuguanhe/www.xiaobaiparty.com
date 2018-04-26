@@ -1,0 +1,213 @@
+2018-04-18 00:00:01,923 INFO 1072 [egg-logrotator] app logger reload: got log-reload message
+2018-04-18 03:22:10,888 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 05:10:14,510 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 06:38:04,528 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 08:50:07,172 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 09:50:08,166 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 10:18:53,389 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 13:56:10,802 WARN 1072 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 15:28:53,415 INFO 8056 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 15:28:53,454 INFO 8056 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 15:28:53,454 INFO 8056 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 15:28:53,525 INFO 8056 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 15:28:53,528 INFO 8056 [egg-security] use csrf middleware
+2018-04-18 15:28:53,529 INFO 8056 [egg-security] use methodnoallow middleware
+2018-04-18 15:28:53,530 INFO 8056 [egg-security] use noopen middleware
+2018-04-18 15:28:53,530 INFO 8056 [egg-security] use nosniff middleware
+2018-04-18 15:28:53,531 INFO 8056 [egg-security] use xssProtection middleware
+2018-04-18 15:28:53,532 INFO 8056 [egg-security] use xframe middleware
+2018-04-18 15:28:53,533 INFO 8056 [egg-security] use dta middleware
+2018-04-18 15:28:53,533 INFO 8056 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 15:28:53,575 INFO 8056 [egg-watcher:app] watcher start success
+2018-04-18 15:28:59,835 INFO 8056 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 15:29:57,429 INFO 8075 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 15:29:57,469 INFO 8075 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 15:29:57,469 INFO 8075 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 15:29:57,549 INFO 8075 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 15:29:57,551 INFO 8075 [egg-security] use csrf middleware
+2018-04-18 15:29:57,552 INFO 8075 [egg-security] use methodnoallow middleware
+2018-04-18 15:29:57,553 INFO 8075 [egg-security] use noopen middleware
+2018-04-18 15:29:57,553 INFO 8075 [egg-security] use nosniff middleware
+2018-04-18 15:29:57,554 INFO 8075 [egg-security] use xssProtection middleware
+2018-04-18 15:29:57,555 INFO 8075 [egg-security] use xframe middleware
+2018-04-18 15:29:57,555 INFO 8075 [egg-security] use dta middleware
+2018-04-18 15:29:57,556 INFO 8075 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 15:29:57,595 INFO 8075 [egg-watcher:app] watcher start success
+2018-04-18 15:30:01,592 INFO 8075 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 15:31:27,431 INFO 8112 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 15:31:27,473 INFO 8112 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 15:31:27,473 INFO 8112 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 15:31:27,549 INFO 8112 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 15:31:27,551 INFO 8112 [egg-security] use csrf middleware
+2018-04-18 15:31:27,553 INFO 8112 [egg-security] use methodnoallow middleware
+2018-04-18 15:31:27,553 INFO 8112 [egg-security] use noopen middleware
+2018-04-18 15:31:27,554 INFO 8112 [egg-security] use nosniff middleware
+2018-04-18 15:31:27,555 INFO 8112 [egg-security] use xssProtection middleware
+2018-04-18 15:31:27,557 INFO 8112 [egg-security] use xframe middleware
+2018-04-18 15:31:27,557 INFO 8112 [egg-security] use dta middleware
+2018-04-18 15:31:27,557 INFO 8112 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 15:31:27,600 INFO 8112 [egg-watcher:app] watcher start success
+2018-04-18 15:31:32,658 INFO 8112 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 15:58:21,608 INFO 8544 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 15:58:21,681 INFO 8544 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 15:58:21,681 INFO 8544 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 15:58:21,778 INFO 8544 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 15:58:21,780 INFO 8544 [egg-security] use csrf middleware
+2018-04-18 15:58:21,781 INFO 8544 [egg-security] use methodnoallow middleware
+2018-04-18 15:58:21,782 INFO 8544 [egg-security] use noopen middleware
+2018-04-18 15:58:21,782 INFO 8544 [egg-security] use nosniff middleware
+2018-04-18 15:58:21,783 INFO 8544 [egg-security] use xssProtection middleware
+2018-04-18 15:58:21,784 INFO 8544 [egg-security] use xframe middleware
+2018-04-18 15:58:21,785 INFO 8544 [egg-security] use dta middleware
+2018-04-18 15:58:21,785 INFO 8544 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 15:58:21,823 INFO 8544 [egg-watcher:app] watcher start success
+2018-04-18 16:00:30,879 INFO 8563 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 16:00:30,931 INFO 8563 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 16:00:30,931 INFO 8563 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 16:00:31,005 INFO 8563 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 16:00:31,007 INFO 8563 [egg-security] use csrf middleware
+2018-04-18 16:00:31,009 INFO 8563 [egg-security] use methodnoallow middleware
+2018-04-18 16:00:31,009 INFO 8563 [egg-security] use noopen middleware
+2018-04-18 16:00:31,010 INFO 8563 [egg-security] use nosniff middleware
+2018-04-18 16:00:31,011 INFO 8563 [egg-security] use xssProtection middleware
+2018-04-18 16:00:31,012 INFO 8563 [egg-security] use xframe middleware
+2018-04-18 16:00:31,012 INFO 8563 [egg-security] use dta middleware
+2018-04-18 16:00:31,012 INFO 8563 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 16:00:31,051 INFO 8563 [egg-watcher:app] watcher start success
+2018-04-18 16:00:33,802 INFO 8571 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 16:00:33,835 INFO 8571 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 16:00:33,835 INFO 8571 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 16:00:33,870 INFO 8571 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 16:00:33,872 INFO 8571 [egg-security] use csrf middleware
+2018-04-18 16:00:33,872 INFO 8571 [egg-security] use methodnoallow middleware
+2018-04-18 16:00:33,873 INFO 8571 [egg-security] use noopen middleware
+2018-04-18 16:00:33,873 INFO 8571 [egg-security] use nosniff middleware
+2018-04-18 16:00:33,873 INFO 8571 [egg-security] use xssProtection middleware
+2018-04-18 16:00:33,873 INFO 8571 [egg-security] use xframe middleware
+2018-04-18 16:00:33,873 INFO 8571 [egg-security] use dta middleware
+2018-04-18 16:00:33,874 INFO 8571 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 16:00:33,910 INFO 8571 [egg-watcher:app] watcher start success
+2018-04-18 16:00:41,603 INFO 8579 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 16:00:41,636 INFO 8579 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 16:00:41,636 INFO 8579 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 16:00:41,670 INFO 8579 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 16:00:41,672 INFO 8579 [egg-security] use csrf middleware
+2018-04-18 16:00:41,672 INFO 8579 [egg-security] use methodnoallow middleware
+2018-04-18 16:00:41,673 INFO 8579 [egg-security] use noopen middleware
+2018-04-18 16:00:41,673 INFO 8579 [egg-security] use nosniff middleware
+2018-04-18 16:00:41,673 INFO 8579 [egg-security] use xssProtection middleware
+2018-04-18 16:00:41,673 INFO 8579 [egg-security] use xframe middleware
+2018-04-18 16:00:41,673 INFO 8579 [egg-security] use dta middleware
+2018-04-18 16:00:41,673 INFO 8579 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 16:00:41,701 INFO 8579 [egg-watcher:app] watcher start success
+2018-04-18 16:04:07,727 INFO 8696 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 16:04:07,766 INFO 8696 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 16:04:07,766 INFO 8696 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 16:04:07,834 INFO 8696 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 16:04:07,836 INFO 8696 [egg-security] use csrf middleware
+2018-04-18 16:04:07,837 INFO 8696 [egg-security] use methodnoallow middleware
+2018-04-18 16:04:07,838 INFO 8696 [egg-security] use noopen middleware
+2018-04-18 16:04:07,839 INFO 8696 [egg-security] use nosniff middleware
+2018-04-18 16:04:07,840 INFO 8696 [egg-security] use xssProtection middleware
+2018-04-18 16:04:07,841 INFO 8696 [egg-security] use xframe middleware
+2018-04-18 16:04:07,841 INFO 8696 [egg-security] use dta middleware
+2018-04-18 16:04:07,841 INFO 8696 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 16:04:07,881 INFO 8696 [egg-watcher:app] watcher start success
+2018-04-18 16:04:11,828 INFO 8696 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 17:25:17,493 INFO 15021 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 17:25:17,528 INFO 15021 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 17:25:17,528 INFO 15021 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 17:25:17,603 INFO 15021 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 17:25:17,605 INFO 15021 [egg-security] use csrf middleware
+2018-04-18 17:25:17,606 INFO 15021 [egg-security] use methodnoallow middleware
+2018-04-18 17:25:17,607 INFO 15021 [egg-security] use noopen middleware
+2018-04-18 17:25:17,608 INFO 15021 [egg-security] use nosniff middleware
+2018-04-18 17:25:17,609 INFO 15021 [egg-security] use xssProtection middleware
+2018-04-18 17:25:17,610 INFO 15021 [egg-security] use xframe middleware
+2018-04-18 17:25:17,610 INFO 15021 [egg-security] use dta middleware
+2018-04-18 17:25:17,610 INFO 15021 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 17:25:17,656 INFO 15021 [egg-watcher:app] watcher start success
+2018-04-18 17:25:25,087 INFO 15021 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 17:25:48,313 INFO 15037 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 17:25:48,352 INFO 15037 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 17:25:48,352 INFO 15037 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 17:25:48,434 INFO 15037 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 17:25:48,436 INFO 15037 [egg-security] use csrf middleware
+2018-04-18 17:25:48,437 INFO 15037 [egg-security] use methodnoallow middleware
+2018-04-18 17:25:48,438 INFO 15037 [egg-security] use noopen middleware
+2018-04-18 17:25:48,439 INFO 15037 [egg-security] use nosniff middleware
+2018-04-18 17:25:48,440 INFO 15037 [egg-security] use xssProtection middleware
+2018-04-18 17:25:48,440 INFO 15037 [egg-security] use xframe middleware
+2018-04-18 17:25:48,441 INFO 15037 [egg-security] use dta middleware
+2018-04-18 17:25:48,441 INFO 15037 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 17:25:48,480 INFO 15037 [egg-watcher:app] watcher start success
+2018-04-18 17:40:56,636 INFO 15037 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 17:43:08,962 INFO 15164 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 17:43:09,009 INFO 15164 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 17:43:09,009 INFO 15164 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 17:43:09,090 INFO 15164 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 17:43:09,093 INFO 15164 [egg-security] use csrf middleware
+2018-04-18 17:43:09,094 INFO 15164 [egg-security] use methodnoallow middleware
+2018-04-18 17:43:09,095 INFO 15164 [egg-security] use noopen middleware
+2018-04-18 17:43:09,096 INFO 15164 [egg-security] use nosniff middleware
+2018-04-18 17:43:09,096 INFO 15164 [egg-security] use xssProtection middleware
+2018-04-18 17:43:09,098 INFO 15164 [egg-security] use xframe middleware
+2018-04-18 17:43:09,099 INFO 15164 [egg-security] use dta middleware
+2018-04-18 17:43:09,099 INFO 15164 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 17:43:09,150 INFO 15164 [egg-watcher:app] watcher start success
+2018-04-18 17:43:13,573 INFO 15164 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 17:50:59,789 INFO 15385 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 17:50:59,831 INFO 15385 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 17:50:59,831 INFO 15385 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 17:50:59,899 INFO 15385 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 17:50:59,902 INFO 15385 [egg-security] use csrf middleware
+2018-04-18 17:50:59,904 INFO 15385 [egg-security] use methodnoallow middleware
+2018-04-18 17:50:59,904 INFO 15385 [egg-security] use noopen middleware
+2018-04-18 17:50:59,905 INFO 15385 [egg-security] use nosniff middleware
+2018-04-18 17:50:59,906 INFO 15385 [egg-security] use xssProtection middleware
+2018-04-18 17:50:59,906 INFO 15385 [egg-security] use xframe middleware
+2018-04-18 17:50:59,907 INFO 15385 [egg-security] use dta middleware
+2018-04-18 17:50:59,907 INFO 15385 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 17:50:59,948 INFO 15385 [egg-watcher:app] watcher start success
+2018-04-18 17:51:01,304 INFO 15393 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 17:51:01,333 INFO 15393 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 17:51:01,333 INFO 15393 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 17:51:01,367 INFO 15393 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 17:51:01,369 INFO 15393 [egg-security] use csrf middleware
+2018-04-18 17:51:01,370 INFO 15393 [egg-security] use methodnoallow middleware
+2018-04-18 17:51:01,370 INFO 15393 [egg-security] use noopen middleware
+2018-04-18 17:51:01,370 INFO 15393 [egg-security] use nosniff middleware
+2018-04-18 17:51:01,370 INFO 15393 [egg-security] use xssProtection middleware
+2018-04-18 17:51:01,371 INFO 15393 [egg-security] use xframe middleware
+2018-04-18 17:51:01,371 INFO 15393 [egg-security] use dta middleware
+2018-04-18 17:51:01,371 INFO 15393 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 17:51:01,398 INFO 15393 [egg-watcher:app] watcher start success
+2018-04-18 17:51:08,086 INFO 15401 [egg:logger] init all loggers with options: {"dir":"/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"www.xiaobaiparty.com-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-04-18 17:51:08,120 INFO 15401 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-04-18 17:51:08,120 INFO 15401 [egg-schedule]: register schedule /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-04-18 17:51:08,147 INFO 15401 [egg-static] starting static serve /public/ -> /Users/why/iDreamFia/www.xiaobaiparty.com/app/public
+2018-04-18 17:51:08,149 INFO 15401 [egg-security] use csrf middleware
+2018-04-18 17:51:08,149 INFO 15401 [egg-security] use methodnoallow middleware
+2018-04-18 17:51:08,149 INFO 15401 [egg-security] use noopen middleware
+2018-04-18 17:51:08,149 INFO 15401 [egg-security] use nosniff middleware
+2018-04-18 17:51:08,150 INFO 15401 [egg-security] use xssProtection middleware
+2018-04-18 17:51:08,150 INFO 15401 [egg-security] use xframe middleware
+2018-04-18 17:51:08,150 INFO 15401 [egg-security] use dta middleware
+2018-04-18 17:51:08,150 INFO 15401 [egg-security] compose 7 middlewares into one security middleware
+2018-04-18 17:51:08,181 INFO 15401 [egg-watcher:app] watcher start success
+2018-04-18 17:51:43,625 INFO 15401 [egg-view-nunjucks] loading templates from ["/Users/why/iDreamFia/www.xiaobaiparty.com/app/view"]
+2018-04-18 21:03:39,019 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 21:08:44,137 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-18 22:57:15,652 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 03:38:36,199 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 05:27:53,680 WARN 15401 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2018-04-19 05:27:53,685 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 07:16:05,682 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 07:36:29,263 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 09:06:19,380 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 09:51:55,052 WARN 15401 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-04-19 10:45:04,407 INFO 15401 [egg-logrotator] clean all log before 31 days
+2018-04-19 10:45:04,408 INFO 15401 [-/127.0.0.1/-/24ms SCHEDULE /__schedule?path=/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js&type=worker&cron=0%200%20*%20*%20*] [egg-schedule] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 24ms
+2018-04-19 10:45:05,340 INFO 15401 [egg-logrotator] broadcast log-reload
+2018-04-19 10:45:05,341 INFO 15401 [egg-logrotator] rotate files success by DayRotator, files ["/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/common-error.log -> /Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/common-error.log.2018-04-18","/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/www.xiaobaiparty.com-web.log -> /Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/www.xiaobaiparty.com-web.log.2018-04-18","/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-web.log -> /Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-web.log.2018-04-18","/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-schedule.log -> /Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-schedule.log.2018-04-18","/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-agent.log -> /Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-agent.log.2018-04-18"]
+2018-04-19 10:45:05,342 INFO 15401 [-/127.0.0.1/-/13ms SCHEDULE /__schedule?path=/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [egg-schedule] /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 13ms

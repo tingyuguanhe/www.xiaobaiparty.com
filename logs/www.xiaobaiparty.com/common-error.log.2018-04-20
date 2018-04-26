@@ -1,0 +1,444 @@
+2018-04-20 22:40:54,077 ERROR 29178 [-/::1/-/22ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29178
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:40:57,314 ERROR 29178 [-/::1/-/5ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29178
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:41:03,918 ERROR 29186 [-/::1/-/18ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29186
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:41:48,737 ERROR 29203 [-/::1/-/17ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29203
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:42:18,973 ERROR 29225 [-/::1/-/22ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29225
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:42:32,849 ERROR 29225 [-/::1/-/5ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29225
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:42:33,025 ERROR 29225 [-/::1/-/2ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29225
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:44:41,096 ERROR 29249 [-/::1/-/19ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29249
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:44:52,306 ERROR 29264 [-/::1/-/25ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29264
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:44:55,688 ERROR 29264 [-/::1/-/3ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29264
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:45:24,986 ERROR 29264 [-/::1/-/2ms GET /] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29264
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 22:45:36,870 ERROR 29275 [-/::1/-/17ms GET /home] nodejs.Template render error: Error: template not found: /Users/why/iDreamFia/www.xiaobaiparty.com/app/view/find/layout.tpl
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:547:19
+    at eval (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:10:11)
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:279:11)
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:283:7)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:313:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at Template.root [as rootRenderFunc] (eval at _compile (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:617:18), <anonymous>:9:5)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:540:10)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 29275
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 23:11:51,350 ERROR 29514 [-/::1/-/1ms GET /upload] nodejs.AssertionError [ERR_ASSERTION]: Can't find upload/index.tpl from /Users/why/iDreamFia/www.xiaobaiparty.com/app/view
+    at Map.resolve (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 29514
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 23:11:55,169 ERROR 29514 [-/::1/-/1ms GET /upload] nodejs.AssertionError [ERR_ASSERTION]: Can't find upload/index.tpl from /Users/why/iDreamFia/www.xiaobaiparty.com/app/view
+    at Map.resolve (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 29514
+hostname: whydeMacBook-Pro.local
+
+2018-04-20 23:59:55,681 ERROR 30284 [-/::1/-/3ms GET /] nodejs.Template render error: unexpected token: %}
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:526:21)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 30284
+hostname: whydeMacBook-Pro.local
+
+2018-04-21 00:09:54,433 ERROR 30417 [-/::1/-/20ms GET /] nodejs.Template render error: unknown block tag: item
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:526:21)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 30417
+hostname: whydeMacBook-Pro.local
+
+2018-04-21 00:10:35,662 ERROR 30417 [-/::1/-/4ms GET /] nodejs.Template render error: unknown block tag: folder
+    at Object._prettifyError (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:35:11)
+    at Template.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:526:21)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:350:27
+    at createTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:299:9)
+    at handle (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:311:11)
+    at /Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:323:9
+    at next (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:281:7)
+    at Object.asyncIter (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/lib.js:287:3)
+    at NunjucksEnvironment.getTemplate (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:305:9)
+    at NunjucksEnvironment.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/nunjucks/src/environment.js:344:10)
+    at Promise (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:13:25)
+    at new Promise (<anonymous>)
+    at NunjucksView.render (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/lib/view.js:12:12)
+    at ContextView.[contextView#render] (/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/lib/context_view.js:70:23)
+    at <anonymous>
+name: 'Template render error'
+pid: 30417
+hostname: whydeMacBook-Pro.local
+

@@ -11,6 +11,35 @@
   overflow: hidden;
   border-radius: 4px;
 }
+.home_page_wrap .banner_wrap .swiper-container {
+  height: 314px;
+  width: 784px;
+}
+.home_page_wrap .banner_wrap .content-slide {
+  padding: 20px;
+  color: #fff;
+}
+.home_page_wrap .banner_wrap .pagination {
+  position: absolute;
+  z-index: 20;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+.home_page_wrap .banner_wrap .swiper-pagination-switch {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 8px;
+  background: #555;
+  margin: 0 5px;
+  opacity: 0.8;
+  border: 1px solid #fff;
+  cursor: pointer;
+}
+.home_page_wrap .banner_wrap .swiper-active-switch {
+  background: #fff;
+}
 .home_page_wrap .find_page_wrap {
   background: #fff;
   margin: 20px 0 0 0;

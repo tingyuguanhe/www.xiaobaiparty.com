@@ -7,49 +7,7 @@
   <link rel="stylesheet" type="text/css" href="../../public/js/lib/swiper/idangerous.swiper2.7.6.css"/>
   <script src="../../public/js/lib/swiper/idangerous.swiper2.7.6.min.js"/></script>
   <script src="/public/js/find.js"/></script>
-  <style>
-.device {
-  width: 784px;
-  height: 314px;
-  position: relative;
-}
-
-.swiper-container {
-  height: 314px;
-  width: 100%;
-}
-.content-slide {
-  padding: 20px;
-  color: #fff;
-}
-.title {
-  font-size: 25px;
-  margin-bottom: 10px;
-}
-
-.pagination {
-  position: absolute;
-  z-index: 20;
-  bottom: 10px;
-  width: 100%;
-  text-align: center;
-}
-.swiper-pagination-switch {
-  display: inline-block;
-  width: 8px;
-  height: 8px;
-  border-radius: 8px;
-  background: #555;
-  margin: 0 5px;
-  opacity: 0.8;
-  border: 1px solid #fff;
-  cursor: pointer;
-}
-.swiper-active-switch {
-  background: #fff;
-}
-</style>
-
+  
 {% endblock %}
 {% block breadcrumb %}
   <div class="breadcrumb">
@@ -61,7 +19,6 @@
   <div class="home_page_wrap">
     <div class="content_wrap pull-left">
       <div class="banner_wrap">
-        <div class="device">
           <div class="swiper-container">
             <div class="swiper-wrapper">
               <div class="swiper-slide"> <img src="../../public/img/banner/4.jpg" width="784px"> </div>
@@ -71,10 +28,6 @@
             </div>
             <div class="pagination"></div>
           </div>
-          
-          
-        </div>
-        
       </div>
       <div class="find_page_wrap">
         <div class="page_title">刷一刷</div>

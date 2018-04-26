@@ -133,3 +133,4 @@
 2018-04-26 15:32:45,524 INFO 75103 [egg-security] use dta middleware
 2018-04-26 15:32:45,524 INFO 75103 [egg-security] compose 7 middlewares into one security middleware
 2018-04-26 15:32:45,551 INFO 75103 [egg-watcher:app] watcher start success
+2018-04-26 15:56:01,121 INFO 75103 [egg-view-nunjucks] loading templates from ["/Users/why/wode/www.xiaobaiparty.com/app/view"]

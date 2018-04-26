@@ -2,14 +2,6 @@
 const Controller = require('egg').Controller;
 
 class messageController extends Controller {
-  // async index() {
-  //   // this.ctx.body = 'Hello world';
-  //   const aa = {
-  //     name: '66666'
-  //   };
-  //   await this.ctx.render('my_catalog.tpl', aa);
-  // }
-
   async index() {
     const data = {
       listData:[

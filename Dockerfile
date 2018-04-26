@@ -10,5 +10,7 @@ COPY package-lock.json /home/app/
 RUN npm install --production
 COPY . /home/app/
 EXPOSE 8080
-CMD npm start
+
+ENV EGG_SERVER_ENV=daily
+CMD EGG_SERVER_ENV=$EGG_SERVER_ENV npm start
 

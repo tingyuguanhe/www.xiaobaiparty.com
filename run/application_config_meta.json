@@ -1,265 +1,265 @@
 {
-  "keys": "/Users/why/wode/www.xiaobaiparty.com/config/config.default.js",
+  "keys": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js",
   "view": {
-    "defaultViewEngine": "/Users/why/wode/www.xiaobaiparty.com/config/config.default.js",
+    "defaultViewEngine": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js",
     "mapping": {
-      ".tpl": "/Users/why/wode/www.xiaobaiparty.com/config/config.default.js"
+      ".tpl": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js"
     },
     "onerror": {
-      "all": "/Users/why/wode/www.xiaobaiparty.com/config/config.default.js"
+      "all": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js"
     },
-    "root": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view/config/config.default.js"
+    "root": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/config/config.default.js"
   },
   "session": {
-    "maxAge": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js"
+    "maxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.local.js",
+    "type": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "multipart": {
-    "autoFields": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js"
+    "autoFields": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js"
   },
   "development": {
-    "watchDirs": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js"
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js"
   },
   "nunjucks": {
-    "autoescape": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "throwOnUndefined": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "trimBlocks": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "lstripBlocks": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "cache": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.local.js"
+    "autoescape": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.local.js"
   },
-  "env": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "name": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "env": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "name": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "version": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "description": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "main": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "name": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "version": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "description": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "main": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
     "scripts": {
-      "dev": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "start": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "dev": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "start": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "url": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "type": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "url": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "license": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "author": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "license": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "axios": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "bootstrap": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "egg": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "egg-view-nunjucks": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "node-sass": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "raven": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "axios": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "bootstrap": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "egg": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "node-sass": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "raven": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "egg-bin": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     }
   },
-  "baseDir": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "bodyparser": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "strict": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "strict": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "depth": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "depth": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     }
   },
   "logger": {
-    "dir": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "env": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "level": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "dir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "env": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "level": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.local.js"
+      "consoleLevel": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxAge": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "logging": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "logging": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "port": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "port": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "responseTimeout": "/Users/why/wode/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "responseTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
   }
 }

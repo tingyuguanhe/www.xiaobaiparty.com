@@ -13,6 +13,9 @@ class DemosController extends Controller {
     const response = await axios.get(`https://api.github.com/repos/ZhangBohan/${repo}`);
     await this.ctx.render('demos/detail.tpl', { data: response.data });
   }
+  async error(ctx) {
+    throw Error()
+  }
 }
 
 module.exports = DemosController;

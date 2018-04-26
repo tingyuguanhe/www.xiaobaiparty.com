@@ -5,6 +5,7 @@ module.exports = app => {
 
   router.get('/mine', controller.mine.index);  //我的首页
   router.get('/news', controller.news.list);
+  router.get('/error', controller.demos.error);
   router.get('/demos', controller.demos.list);
   router.get('/demos/:repo', controller.demos.detail);
 

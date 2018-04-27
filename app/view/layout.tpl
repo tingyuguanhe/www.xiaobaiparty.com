@@ -19,6 +19,7 @@
 
 <link rel="stylesheet" type="text/css" href="../public/js/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="/public/css/common.css"/>
+<script src="http://res.wx.qq.com/connect/zh_CN/htmledition/js/wxLogin.js"></script>
 <script src="../public/js/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 
 <script src="../public/js/common.js"></script>
@@ -124,10 +125,10 @@
         
         <div class="title">快速登录</div>
         <div class="text">收藏是一种习惯,分类是一种能力,分享是一种美德</div>
-        <div class="iframe">
+        <!--<div class="iframe">
             <iframe src="" width="160px" height="160px"></iframe>
-        </div>
-        <!--<div class="code_img"><img src="../public/img/code.png" width="100%"/></div>-->
+        </div>-->
+        <div class="code_img"><img src="../public/img/code.png" width="100%"/></div>
         <p class="tip">微信扫一扫,即可登录</p>
       </div>
     </div><!-- /.modal-content -->

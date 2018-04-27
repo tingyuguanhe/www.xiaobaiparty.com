@@ -119,7 +119,35 @@ class HomeController extends Controller {
       
     }
 
-   
+    //let result = await api.login();
+    let result = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/fake_login/?token=8888&userId=1", {
+        method: 'get',
+        dataType: 'json'
+    });
+    let set_cook = result.headers["set-cookie"];
+    let csrf_id = set_cook[0].split(";")[0].split("=")[1];
+    let sess_id = set_cook[1].split(";")[0].split("=")[1];
+    console.log("set_cook :", result.headers);
+    console.log("csrf_id :", csrf_id);
+    console.log("sess_id :", sess_id);
+
+    //let user = await api.getUserInfo();
+    //if(!!result && !!result.status && result.status == "ok"){
+      //let user = await api.getUserInfo();
+      //console.log("user :", user);
+    //}
+
+    let user = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/auth_info/", {
+        method: 'get',
+        headers:{
+          'csrftoken':csrf_id,
+          'sessionid':sess_id,
+          'content-type': 'application/json',
+        },
+        dataType: 'json'
+    });
+    console.log("____________________________________________");
+    console.log("user: ",user);
     
   
     await this.ctx.render('find/index.tpl', data);

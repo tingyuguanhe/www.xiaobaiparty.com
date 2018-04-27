@@ -1,265 +1,265 @@
 {
-  "keys": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js",
+  "keys": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\config\\config.default.js",
   "view": {
-    "defaultViewEngine": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js",
+    "defaultViewEngine": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\config\\config.default.js",
     "mapping": {
-      ".tpl": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js"
+      ".tpl": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\config\\config.default.js"
     },
     "onerror": {
-      "all": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/config.default.js"
+      "all": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\config\\config.default.js"
     },
-    "root": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view/config/config.default.js"
+    "root": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session/config/config.default.js"
+    "maxAge": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-session\\config\\config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
     "csrf": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xframe": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "helper": {
-    "shtml": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security/config/config.default.js"
+    "shtml": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.local.js",
+    "type": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/config/config.default.js"
+      "default": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "multipart": {
-    "autoFields": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart/config/config.default.js"
+    "autoFields": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart\\config\\config.default.js"
   },
   "development": {
-    "watchDirs": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-development\\config\\config.default.js"
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static/config/config.default.js"
+    "prefix": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static\\config\\config.default.js"
   },
   "nunjucks": {
-    "autoescape": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "throwOnUndefined": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "trimBlocks": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "lstripBlocks": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.default.js",
-    "cache": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks/config/config.local.js"
+    "autoescape": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
   },
-  "env": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "name": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "env": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "version": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "description": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "main": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "name": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "main": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "scripts": {
-      "dev": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "start": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "dev": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "start": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "url": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "type": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     },
-    "author": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "license": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "author": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
-      "axios": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "bootstrap": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "egg": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "egg-view-nunjucks": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "node-sass": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "raven": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "axios": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "bootstrap": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "node-sass": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "raven": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "egg-bin": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     }
   },
-  "baseDir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "baseDir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "ignore": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "bodyparser": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "pageUrl": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "strict": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "depth": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "arrayLimit": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "logger": {
-    "dir": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "env": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "level": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "dir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.local.js"
+      "consoleLevel": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxAge": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "timeout": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "keepAlive": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "keepAlive": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-    "logging": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "enable": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "port": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "responseTimeout": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/config.default.js"
+    "responseTimeout": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
   }
 }

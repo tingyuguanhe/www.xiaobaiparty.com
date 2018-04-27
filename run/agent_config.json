@@ -83,8 +83,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-watcher\\lib\\event-sources\\default",
+        "development": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-watcher\\lib\\event-sources\\development"
       }
     },
     "multipart": {
@@ -108,7 +108,7 @@
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com/egg-schedule.log"
+        "file": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\logs\\www.xiaobaiparty.com\\egg-schedule.log"
       }
     },
     "logrotator": {
@@ -122,14 +122,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/why/iDreamFia/www.xiaobaiparty.com/app/public",
+      "dir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\app\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/why/iDreamFia/www.xiaobaiparty.com/app/view",
+      "root": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "nunjucks",
@@ -181,9 +181,9 @@
         "egg-bin": "^4.6.3"
       }
     },
-    "baseDir": "/Users/why/iDreamFia/www.xiaobaiparty.com",
-    "HOME": "/Users/why",
-    "rundir": "/Users/why/iDreamFia/www.xiaobaiparty.com/run",
+    "baseDir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com",
+    "HOME": "C:\\Users\\wacily",
+    "rundir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -213,7 +213,7 @@
       }
     },
     "logger": {
-      "dir": "/Users/why/iDreamFia/www.xiaobaiparty.com/logs/www.xiaobaiparty.com",
+      "dir": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\logs\\www.xiaobaiparty.com",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -291,8 +291,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-session",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -304,8 +304,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-security",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-security",
       "version": "2.2.1"
     },
     "jsonp": {
@@ -317,8 +317,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-jsonp",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -330,8 +330,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-onerror",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-onerror",
       "version": "2.0.0"
     },
     "i18n": {
@@ -341,8 +341,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-i18n",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -352,8 +352,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-watcher",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-watcher",
       "version": "3.0.0"
     },
     "multipart": {
@@ -363,8 +363,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-multipart",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-multipart",
       "version": "2.0.0"
     },
     "development": {
@@ -378,8 +378,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-development",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-development",
       "version": "2.2.0"
     },
     "schedule": {
@@ -389,8 +389,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-schedule",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-schedule",
       "version": "3.3.0"
     },
     "logrotator": {
@@ -402,8 +402,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-logrotator",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-logrotator",
       "version": "3.0.3"
     },
     "static": {
@@ -413,8 +413,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-static",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-static",
       "version": "2.1.0"
     },
     "view": {
@@ -424,8 +424,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view",
       "version": "2.1.0"
     },
     "nunjucks": {
@@ -438,8 +438,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/why/iDreamFia/www.xiaobaiparty.com/config/plugin.js",
-      "path": "/Users/why/iDreamFia/www.xiaobaiparty.com/node_modules/egg-view-nunjucks",
+      "from": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\config\\plugin.js",
+      "path": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg-view-nunjucks",
       "version": "2.2.0"
     }
   }

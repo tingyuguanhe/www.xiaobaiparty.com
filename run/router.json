@@ -32,6 +32,19 @@
       "GET"
     ],
     "paramNames": [],
+    "path": "/error",
+    "regexp": "/^\\/error(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
     "path": "/demos",
     "regexp": "/^\\/demos(?:\\/(?=$))?$/",
     "stack": [

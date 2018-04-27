@@ -128,7 +128,7 @@
         <!--<div class="iframe">
             <iframe src="" width="160px" height="160px"></iframe>
         </div>-->
-        <div class="code_img"><img src="../public/img/code.png" width="100%"/></div>
+        <div class="code_img" id="wx_scan_login"><!--<img src="../public/img/code.png" width="100%"/>--></div>
         <p class="tip">微信扫一扫,即可登录</p>
       </div>
     </div><!-- /.modal-content -->

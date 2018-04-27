@@ -8,6 +8,8 @@ var urls = {
     updateUserInfo : (data) => fetch('POST', domain+'/api/m/userinfo/edit/',{data: data}),  //修改用户信息
     //新建目录
     cerateNewFile: (data) => fetch('POST', '/api/folders/',{data: data}),
+    //上传文件
+    uploadFile: (data) => fetch('POST', '/api/articles/',{data: data}),
     //修改目录
     updateFile: (param,data) => fetch('PUT', `/api/folders/${param.article_set_id}/`,{data: data}),
     //删除目录

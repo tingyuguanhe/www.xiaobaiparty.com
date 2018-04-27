@@ -6,6 +6,10 @@ const path = require('path');
 const awaitWriteStream = require('await-stream-ready').write;
 const sendToWormhole = require('stream-wormhole');
 
+const fetch = require('../service/api/index')
+const axios = require('axios')
+const api = require('../service/api/api')
+
 class UploadController extends Controller {
   // async index() {
   //   // this.ctx.body = 'Hello world';
@@ -75,31 +79,28 @@ class UploadController extends Controller {
           await sendToWormhole(stream);
           throw err;
       }
+
+      // let postData = {
+      //     "title":file_title,
+      //     "url":copy_address,
+      //     "article_set_id":69
+      // }
+    let postData = {
+        "title":"erjiceping4",
+        "url":"http://www.geekpark.net/news/223538",
+        "article_set_id":69
+    }
+      let upload = await api.uploadFile(postData);
+    // let upload = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/articles/", {
+    //     method: 'post',
+    //     dataType: 'json',
+    //     data:postData
+    // });
+      console.log("upload", upload);
+
       this.ctx.redirect('/upload');
 
-      const data = {
-        folders:[
-            {
-                name:'今天很郁闷',
-                checked: false
-            },
-            {
-                name:'汽车行业',
-                checked: true
-            },
-            {
-                name:'智能家具',
-                checked: true
-            },
-            {
-                name:'高级咖啡',
-                checked: false
-            }
-        ],
 
-
-    }
-    await this.ctx.render('upload/index.tpl', data);
   }
 
 }

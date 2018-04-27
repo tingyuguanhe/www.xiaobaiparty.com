@@ -17,6 +17,7 @@ module.exports = app => {
   router.get('/notices', controller.notices.index)// 消息通知
   router.get('/', controller.find.index)// 发现（首页）
   router.get('/upload', controller.upload.index)// 上传文件
+  router.post('/upload_file', controller.upload.upload)// 上传文件
   
   // rest接口
   router.post('/api/v1/users/login', controller.find.index);

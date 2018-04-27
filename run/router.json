@@ -181,6 +181,18 @@
       "POST"
     ],
     "paramNames": [],
+    "path": "/upload_file",
+    "regexp": "/^\\/upload_file(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
     "path": "/api/v1/users/login",
     "regexp": "/^\\/api\\/v1\\/users\\/login(?:\\/(?=$))?$/",
     "stack": [

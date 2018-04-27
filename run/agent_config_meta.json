@@ -166,12 +166,14 @@
     "author": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "license": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
+      "await-stream-ready": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
       "axios": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
       "bootstrap": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
       "egg": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
       "egg-view-nunjucks": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
       "node-sass": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
-      "raven": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
+      "raven": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js",
+      "stream-wormhole": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "egg-bin": "E:\\GitHub\\xiaobai\\www.xiaobaiparty.com\\node_modules\\egg\\config\\config.default.js"

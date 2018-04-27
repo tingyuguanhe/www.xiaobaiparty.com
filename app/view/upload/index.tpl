@@ -15,14 +15,14 @@
 {% block body %}
 <div class="container">
     <div class="content_wrap">
-        <form class="upload_wrap">
+        <form class="upload_wrap" method="post" action="/upload_file?_csrf={{ ctx.csrf | safe }}" enctype="multipart/form-data">
             <div class="form-group">
                 <div class="row">
                     <div class="col-md-2">
                         <label for="exampleInputEmail1">文件标题</label>
                     </div>
                     <div class="col-md-10">
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="请输入文件标题">
+                        <input type="email" class="form-control" id="exampleInputEmail1" name="file_title" placeholder="请输入文件标题">
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                         <label for="exampleInputPassword1">粘贴地址</label>
                     </div>
                     <div class="col-md-10">
-                        <input type="text" class="form-control" id="exampleInputPassword1" placeholder="请输入地址">
+                        <input type="text" class="form-control" id="exampleInputPassword1" name="copy_address" placeholder="请输入地址">
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
                         <label for="intro_detail">详细描述</label>
                     </div>
                     <div class="col-md-10">
-                        <textarea class="form-control" id="intro_detail" rows="6" placeholder="请输入"></textarea>
+                        <textarea class="form-control" id="intro_detail" name="file_detail" rows="6" placeholder="请输入"></textarea>
                     </div>
                 </div>
             </div>

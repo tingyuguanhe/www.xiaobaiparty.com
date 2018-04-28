@@ -139,14 +139,17 @@ class HomeController extends Controller {
     const ctx = this.ctx;
     let code = 0;
     let msg = "未登录";
+    let user_info = null;
     if(!!ctx.session.user && ctx.session.login_in){
       code = 1;
       msg = "已登录";
+      user_info = ctx.session.user;
     }
 
     ctx.body = {
       code:code,
-      msg:msg
+      msg:msg,
+      data: user_info
     };
   }
 

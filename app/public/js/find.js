@@ -5,7 +5,7 @@
 $(function(){
   
  
-  $('#myModal').modal({show: true});
+
   
     var mySwiper = new Swiper('.swiper-container',{
       autoplay : 2000,

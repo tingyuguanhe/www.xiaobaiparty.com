@@ -9,6 +9,8 @@ class HomeController extends Controller {
  
   async index() {
 
+    const ctx = this.ctx;
+
     const data = {
       url:'',
       userInfo:{
@@ -119,42 +121,34 @@ class HomeController extends Controller {
       
     }
 
-    //let result = await api.login();
-    let result = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/fake_login/?token=8888&userId=1", {
-        method: 'get',
-        dataType: 'json'
-    });
-    let set_cook = result.headers["set-cookie"];
-    let csrf_id = set_cook[0].split(";")[0].split("=")[1];
-    let sess_id = set_cook[1].split(";")[0].split("=")[1];
-    console.log("set_cook :", result.headers);
-    console.log("csrf_id :", csrf_id);
-    console.log("sess_id :", sess_id);
+    let result = await api.login();
 
-    //let user = await api.getUserInfo();
-    //if(!!result && !!result.status && result.status == "ok"){
-      //let user = await api.getUserInfo();
-      //console.log("user :", user);
-    //}
+    let user = null;
+    if(!!result && !!result.status && result.status == "ok"){
+        user = await api.getUserInfo();
+    }
 
-    let user = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/auth_info/", {
-        method: 'get',
-        headers:{
-          'csrftoken':csrf_id,
-          'sessionid':sess_id,
-          'content-type': 'application/json',
-        },
-        dataType: 'json'
-    });
-    console.log("____________________________________________");
-    console.log("user: ",user);
-    
+    if(!!user){
+      ctx.session.user = user;
+      ctx.session.login_in = true;
+    }
   
     await this.ctx.render('find/index.tpl', data);
   }
+  async islogin(){
+    const ctx = this.ctx;
+    let code = 0;
+    let msg = "未登录";
+    if(!!ctx.session.user && ctx.session.login_in){
+      code = 1;
+      msg = "已登录";
+    }
 
-
-  
+    ctx.body = {
+      code:code,
+      msg:msg
+    };
+  }
 
 }
 

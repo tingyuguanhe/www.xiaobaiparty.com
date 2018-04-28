@@ -80,22 +80,19 @@ class UploadController extends Controller {
           throw err;
       }
 
-      // let postData = {
-      //     "title":file_title,
-      //     "url":copy_address,
-      //     "article_set_id":69
-      // }
-    let postData = {
-        "title":"erjiceping4",
-        "url":"http://www.geekpark.net/news/223538",
-        "article_set_id":69
-    }
-      let upload = await api.uploadFile(postData);
-    // let upload = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/articles/", {
-    //     method: 'post',
-    //     dataType: 'json',
-    //     data:postData
-    // });
+      let postData = {
+          "title":file_title,
+          "url":copy_address,
+          "article_set_id":69
+      }
+
+    // let upload = await api.uploadFile(postData);
+    let upload = await this.ctx.curl("http://m.xiaobaiparty.xiaoyanzhang.com/api/articles/", {
+        method: 'post',
+        dataType: 'json',
+        headers:{"Content-Type":"application/json"},
+        data:postData
+    });
       console.log("upload", upload);
 
       this.ctx.redirect('/upload');

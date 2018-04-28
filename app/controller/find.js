@@ -1,11 +1,11 @@
 // app/controller/home.js
-const Controller = require('egg').Controller;
+const BaseController = require('./basecontroller');
 const fetch = require('../service/api/index')
 const axios = require('axios')
 
 const api = require('../service/api/api')
 
-class HomeController extends Controller {
+class HomeController extends BaseController {
  
   async index() {
 

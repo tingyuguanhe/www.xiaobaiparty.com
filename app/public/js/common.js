@@ -1,10 +1,21 @@
 $(function(){
-    let status = is_login();
-    if(!!status){
+    var user_string = sessionStorage.getItem("user_info");
+    var user = null;
+    var user_status = false;
+
+    if(user_string && user_string.length > 0){
+        user = JSON.parse(user_string);
+        user_status = true;
+    }
+    else{
+        user_status = is_login();
+    }
+
+    if(!!user_status){
         console.log("登录成功");
         $('#myModal').modal({show: false});
-        var user = JSON.parse(sessionStorage.getItem("user_info"));
-        console.log("user_info", user);
+        var usser_info = user || JSON.parse(sessionStorage.getItem("user_info"));
+        console.log("user_info", usser_info);
     }
     else{
         console.log("登录失败");
